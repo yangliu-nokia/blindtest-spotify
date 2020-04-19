@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/yangliu-nokia/blindtest-spotify.git/static/css/main.348ad1c0.chunk.css",
-    "main.js": "/yangliu-nokia/blindtest-spotify.git/static/js/main.8b01bb4c.chunk.js",
-    "main.js.map": "/yangliu-nokia/blindtest-spotify.git/static/js/main.8b01bb4c.chunk.js.map",
-    "runtime-main.js": "/yangliu-nokia/blindtest-spotify.git/static/js/runtime-main.08a4189a.js",
-    "runtime-main.js.map": "/yangliu-nokia/blindtest-spotify.git/static/js/runtime-main.08a4189a.js.map",
-    "static/js/2.98663aa6.chunk.js": "/yangliu-nokia/blindtest-spotify.git/static/js/2.98663aa6.chunk.js",
-    "static/js/2.98663aa6.chunk.js.map": "/yangliu-nokia/blindtest-spotify.git/static/js/2.98663aa6.chunk.js.map",
-    "index.html": "/yangliu-nokia/blindtest-spotify.git/index.html",
-    "precache-manifest.9a369306f259b52dc056744c1a7791f6.js": "/yangliu-nokia/blindtest-spotify.git/precache-manifest.9a369306f259b52dc056744c1a7791f6.js",
-    "service-worker.js": "/yangliu-nokia/blindtest-spotify.git/service-worker.js",
-    "static/css/main.348ad1c0.chunk.css.map": "/yangliu-nokia/blindtest-spotify.git/static/css/main.348ad1c0.chunk.css.map",
-    "static/js/2.98663aa6.chunk.js.LICENSE.txt": "/yangliu-nokia/blindtest-spotify.git/static/js/2.98663aa6.chunk.js.LICENSE.txt",
-    "static/media/loading.svg": "/yangliu-nokia/blindtest-spotify.git/static/media/loading.9d4cbf40.svg",
-    "static/media/logo.svg": "/yangliu-nokia/blindtest-spotify.git/static/media/logo.79f6b6a0.svg"
+    "main.css": "/yangliu-nokia.io/blindtest-spotify.git/static/css/main.348ad1c0.chunk.css",
+    "main.js": "/yangliu-nokia.io/blindtest-spotify.git/static/js/main.cb89454d.chunk.js",
+    "main.js.map": "/yangliu-nokia.io/blindtest-spotify.git/static/js/main.cb89454d.chunk.js.map",
+    "runtime-main.js": "/yangliu-nokia.io/blindtest-spotify.git/static/js/runtime-main.4f8406d3.js",
+    "runtime-main.js.map": "/yangliu-nokia.io/blindtest-spotify.git/static/js/runtime-main.4f8406d3.js.map",
+    "static/js/2.98663aa6.chunk.js": "/yangliu-nokia.io/blindtest-spotify.git/static/js/2.98663aa6.chunk.js",
+    "static/js/2.98663aa6.chunk.js.map": "/yangliu-nokia.io/blindtest-spotify.git/static/js/2.98663aa6.chunk.js.map",
+    "index.html": "/yangliu-nokia.io/blindtest-spotify.git/index.html",
+    "precache-manifest.e7a95181714e2618a388eb0634c029ea.js": "/yangliu-nokia.io/blindtest-spotify.git/precache-manifest.e7a95181714e2618a388eb0634c029ea.js",
+    "service-worker.js": "/yangliu-nokia.io/blindtest-spotify.git/service-worker.js",
+    "static/css/main.348ad1c0.chunk.css.map": "/yangliu-nokia.io/blindtest-spotify.git/static/css/main.348ad1c0.chunk.css.map",
+    "static/js/2.98663aa6.chunk.js.LICENSE.txt": "/yangliu-nokia.io/blindtest-spotify.git/static/js/2.98663aa6.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/yangliu-nokia.io/blindtest-spotify.git/static/media/loading.9d4cbf40.svg",
+    "static/media/logo.svg": "/yangliu-nokia.io/blindtest-spotify.git/static/media/logo.79f6b6a0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08a4189a.js",
+    "static/js/runtime-main.4f8406d3.js",
     "static/js/2.98663aa6.chunk.js",
     "static/css/main.348ad1c0.chunk.css",
-    "static/js/main.8b01bb4c.chunk.js"
+    "static/js/main.cb89454d.chunk.js"
   ]
 }
